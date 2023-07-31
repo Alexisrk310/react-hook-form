@@ -2,6 +2,7 @@ import React from 'react';
 
 import { useForm } from 'react-hook-form';
 
+// setValue es para agregar variables fuera del form
 const App = () => {
 	const {
 		register,
